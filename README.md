@@ -7,6 +7,7 @@ Here's a collection of variations on [Camelia](https://raw.githubusercontent.com
 |![Orig-Camelia](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/Orig-Camelia.png)|![orig-Camelia-mono](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/orig-Camelia-mono.png)|
 |:------------:|:------------:|
 |![perl6-logo-shadow](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow.png)|![perl6-logo-shadow-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-circle.png)|
+|![perl6-logo-shadow-eyes-font](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-eyes-font.png)| ![perl6-logo-shadow-eyes-font-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-eyes-font-circle.png)|
 
 ### Contribute Your Own!
 
