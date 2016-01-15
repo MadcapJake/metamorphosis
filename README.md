@@ -8,11 +8,11 @@ Here's a collection of variations on [Camelia](https://raw.githubusercontent.com
 |:------------:|:------------:|
 |![perl6-logo-shadow](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow.png)|![perl6-logo-shadow-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-circle.png)|
 
-## Contribute Your Own!
+### Contribute Your Own!
 
 Please make them around 512x512 and submit a PR!
 
-## License
+### License
 
 > The Camelia image is copyright 2009 by Larry Wall.  Permission to use
 is granted under the Artistic License 2.0, or any subsequent version
