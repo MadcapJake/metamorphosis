@@ -8,6 +8,7 @@ Here's a collection of variations on [Camelia](https://raw.githubusercontent.com
 |:------------:|:------------:|
 |![perl6-logo-shadow](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow.png)|![perl6-logo-shadow-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-circle.png)|
 |![perl6-logo-shadow-eyes-font](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-eyes-font.png)| ![perl6-logo-shadow-eyes-font-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/perl6-logo-shadow-eyes-font-circle.png)|
+|![zoffix-perl6-shadow-logo](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/zoffix-perl6-shadow-logo.png)|![zoffix-perl6-shadow-logo-circle](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/zoffix-perl6-shadow-logo-circle.png)
 
 ### Contribute Your Own!
 
