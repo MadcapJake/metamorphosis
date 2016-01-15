@@ -1,6 +1,7 @@
-# Metamorphosis
-### Or: How I Learned To Love Perl 6
+### Metamorphosis
+#### Or: How I Learned To Love Perl 6
 
+___
 Here's a collection of variations on [Camelia](https://raw.githubusercontent.com/perl6/mu/master/misc/camelia.txt).
 
 |![Orig-Camelia](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/Orig-Camelia.png)|![orig-Camelia-mono](https://raw.githubusercontent.com/MadcapJake/metamorphosis/master/images/orig-Camelia-mono.png)|
