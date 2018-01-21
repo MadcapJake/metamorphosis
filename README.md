@@ -19,7 +19,7 @@ Logo variations for Perl 6 (or 6lang) inspired by Camelia.
 |:------------:|:------------:|
 |![6lang-logo1](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-color-logo1.png)|![6lang-logo2](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-color-logo2.png)|
 |![6lang-bw-logo1](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-BW-logo1.png)|![6lang-bw-logo2](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-BW-logo2.png)|
-|![6lang-sticker](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-sticker.png)|![perl6-sticker](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-sticker.png)
+|![6lang-sticker](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/6lang-sticker.png)|![perl6-sticker](https://raw.githubusercontent.com/uzluisf/metamorphosis/master/hex_camelia/perl6-sticker.png)
 
 
 ### Contribute Your Own!
